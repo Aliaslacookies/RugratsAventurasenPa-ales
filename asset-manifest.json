@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/RugratsAventurasenPa-ales/static/css/main.2ceafe7c.chunk.css",
+    "main.js": "/RugratsAventurasenPa-ales/static/js/main.85e99448.chunk.js",
+    "main.js.map": "/RugratsAventurasenPa-ales/static/js/main.85e99448.chunk.js.map",
+    "runtime-main.js": "/RugratsAventurasenPa-ales/static/js/runtime-main.dd717680.js",
+    "runtime-main.js.map": "/RugratsAventurasenPa-ales/static/js/runtime-main.dd717680.js.map",
+    "static/js/2.5ee19627.chunk.js": "/RugratsAventurasenPa-ales/static/js/2.5ee19627.chunk.js",
+    "static/js/2.5ee19627.chunk.js.map": "/RugratsAventurasenPa-ales/static/js/2.5ee19627.chunk.js.map",
+    "index.html": "/RugratsAventurasenPa-ales/index.html",
+    "static/css/main.2ceafe7c.chunk.css.map": "/RugratsAventurasenPa-ales/static/css/main.2ceafe7c.chunk.css.map",
+    "static/js/2.5ee19627.chunk.js.LICENSE.txt": "/RugratsAventurasenPa-ales/static/js/2.5ee19627.chunk.js.LICENSE.txt",
+    "static/media/blank.fbcb9179.png": "/RugratsAventurasenPa-ales/static/media/blank.fbcb9179.png",
+    "static/media/ima-01.dd284a5d.png": "/RugratsAventurasenPa-ales/static/media/ima-01.dd284a5d.png",
+    "static/media/ima-02.4f5a8ab8.png": "/RugratsAventurasenPa-ales/static/media/ima-02.4f5a8ab8.png",
+    "static/media/ima-03.474aa586.png": "/RugratsAventurasenPa-ales/static/media/ima-03.474aa586.png",
+    "static/media/ima-04.83b26716.png": "/RugratsAventurasenPa-ales/static/media/ima-04.83b26716.png",
+    "static/media/ima-05.a2e46dcc.png": "/RugratsAventurasenPa-ales/static/media/ima-05.a2e46dcc.png",
+    "static/media/ima-06.4235777f.png": "/RugratsAventurasenPa-ales/static/media/ima-06.4235777f.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.dd717680.js",
+    "static/js/2.5ee19627.chunk.js",
+    "static/css/main.2ceafe7c.chunk.css",
+    "static/js/main.85e99448.chunk.js"
+  ]
+}
